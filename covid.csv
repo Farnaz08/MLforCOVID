@@ -1,0 +1,15 @@
+Age,HighBP,Hypertension,cardiac,Diabetes,Liver,Cancer,none,Stage
+50,1,0,0,0,1,0,0,critical
+25,0,0,0,0,0,0,1,stable
+60,0,1,1,0,0,0,0,dead
+80,0,0,0,1,0,0,0,dead
+30,0,0,0,0,0,1,0,dead
+45,0,0,0,0,1,0,0,stable
+78,1,1,0,0,0,0,0,critical
+20,0,0,0,0,0,0,1,stable
+66,0,0,0,0,1,0,0,critical
+70,0,0,0,0,0,0,1,dead
+55,1,0,0,0,1,0,0,critical
+80,0,0,0,0,0,0,1,dead
+55,0,0,0,0,0,0,1,stable
+48,0,0,0,0,1,0,0,stable
